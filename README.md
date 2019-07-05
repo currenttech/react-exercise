@@ -1,14 +1,14 @@
 # find-rep-api
 Super simple api to get results from http://whoismyrepresentative.com/api
 
-#Installation
+# Installation
 
 * Install node (v6+)
 * Run `npm install` or `yarn`
 * Run `npm start`
 * Enjoy immensely.
 
-###Available endpoints: 
+### Available endpoints: 
 
 `/representatives/:state`
 
