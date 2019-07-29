@@ -4,7 +4,7 @@ A Simple api to get results from http://whoismyrepresentative.com/api
 ## Goal
 
 * Build a React application that utilizes both endpoints found below
-* Email your completed project link to `craig.andersen@current.tech`
+* Email your completed project link to your company contact.
 
 # Installation
 
