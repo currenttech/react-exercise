@@ -1,14 +1,19 @@
 # find-rep-api
-Super simple api to get results from http://whoismyrepresentative.com/api
+A Simple api to get results from http://whoismyrepresentative.com/api
 
-#Installation
+## Goal
+
+* Build a React application that utilizes both endpoints found below
+* Email your completed project link to your company contact.
+
+# Installation
 
 * Install node (v6+)
 * Run `npm install` or `yarn`
 * Run `npm start`
 * Enjoy immensely.
 
-###Available endpoints: 
+### Available endpoints: 
 
 `/representatives/:state`
 
