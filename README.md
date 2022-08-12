@@ -3,7 +3,12 @@ A Simple api to get results from http://whoismyrepresentative.com/api
 
 ## Goal
 
-* Build a React application that utilizes both endpoints found below
+* Build a React application that utilizes both endpoints found below.
+* Design and styling aren't important here, this should focus on react.
+* Your app should display all representatives and senators in an infinite scroll container.
+* As you scroll near the bottom of the container/page it should fetch more results from the api.
+* Output the api data in a simple UI.
+* Let the user know once they've reached the end of the results.
 * Email your completed project link to your company contact.
 
 # Installation
@@ -11,7 +16,6 @@ A Simple api to get results from http://whoismyrepresentative.com/api
 * Install node (v12+)
 * Run `npm install` or `yarn`
 * Run `npm run start` or `yarn start`
-* Enjoy immensely.
 
 ### Available endpoints: 
 
