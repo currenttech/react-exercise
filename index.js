@@ -49,9 +49,8 @@ function handleApiError(res, next) {
   };
 }
 
-const server = app.listen(3000, () => {
-  const host = server.address().address,
-    port = server.address().port;
+const port = process.env.PORT ?? 3000;
 
-  console.log('API listening at http://%s:%s', host, port);
+app.listen(port, () => {
+  console.log('API listening at http://localhost:%s', port);
 });
