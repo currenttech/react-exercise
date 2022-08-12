@@ -8,9 +8,9 @@ A Simple api to get results from http://whoismyrepresentative.com/api
 
 # Installation
 
-* Install node (v6+)
+* Install node (v12+)
 * Run `npm install` or `yarn`
-* Run `npm start`
+* Run `npm run start` or `yarn start`
 * Enjoy immensely.
 
 ### Available endpoints: 
